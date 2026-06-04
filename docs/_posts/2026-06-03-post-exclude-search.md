@@ -1,6 +1,6 @@
 ---
 title:  "Exclude Post from Search Index"
-date: 2026-06-04
+date: 2026-06-03
 search: false
 categories: 
   - Jekyll
